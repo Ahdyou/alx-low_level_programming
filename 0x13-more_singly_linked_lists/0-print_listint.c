@@ -2,7 +2,7 @@
 #include "stdio.h"
 
 /**
- * print listintt
+ * print_ listintt
  * @h: linked llist 
  *
  * Return:the  number of nodes
