@@ -3,7 +3,7 @@
 
 /**
  * print_ listintt
- * @h: linked llist 
+ * @h:linked llist 
  *
  * Return:the  number of nodes
  */
